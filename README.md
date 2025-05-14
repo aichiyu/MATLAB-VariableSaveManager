@@ -65,7 +65,7 @@ saved_vars = obj.varnames;
 
 ## 许可证
 本工具使用了xxHash哈希算法（ https://github.com/Cyan4973/xxHash ）实现高效的内容校验。
-本项目采用GPL-3.0许可证，具体内容见`LICENSE`文件（如需添加请自行创建）。
+本项目采用GPL-3.0许可证，具体内容见`LICENSE`文件。
 
 ## 贡献与反馈
 欢迎提交Issue报告问题或建议，PR请遵循：
@@ -140,7 +140,7 @@ saved_vars = obj.varnames;
 
 ## License
 This tool uses the xxHash algorithm (https://github.com/Cyan4973/xxHash) for efficient content verification.
-This project is licensed under the GPL-3.0 License. For details, see the `LICENSE` file (create it if needed).
+This project is licensed under the GPL-3.0 License. For details, see the `LICENSE` file.
 
 ## Contribution and Feedback
 Welcome to submit Issues to report problems or suggestions. For PRs, please follow:
